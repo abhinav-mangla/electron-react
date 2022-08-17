@@ -1,7 +1,9 @@
-# To start the project, run the following commands in order:
+## To start the project, run the following commands in order:
 
 $ npm install
+
 $ npm start
+
 $ npm run electron-dev
 
 # Getting Started with Create React App
